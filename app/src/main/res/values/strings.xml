@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyActivities</string>
+    <string name="btnSubmit">Click Here to Go to Second Activity</string>
+    <string name="txtSecondActivity">You made it to the second activity screen!</string>
+    <string name="btnSubmit2">Click on me to go back to the first activity.</string>
+    <string name="txtView_msg_from_second_activity" />
+</resources>
